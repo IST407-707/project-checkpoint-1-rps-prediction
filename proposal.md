@@ -29,17 +29,17 @@ We are planning to use the several waves of the RPS dataset. One wave of data ha
 
 It is vitally important to carry out the predictive analysis study on U.S. fertility trends utilizing socioeconomic parameters, as its successful completion could have significant effects on many facets of society. This initiative has broad implications for the general public, which includes you and me as well as future generations, in addition to legislators and economic planners. The following summarizes the effect and the reasons it matters:
 
-## For Government Officials and Policymakers
+#### For Government Officials and Policymakers
 Informed Policy Development: The information obtained from the predictive analysis can help direct the creation of laws intended to lessen the effects of population changes. To maintain the sustainability of the workforce, this entails developing family-friendly legislation, immigration reforms, and retirement age adjustments.
 
 Planning for Healthcare and Social Services: Managing resources for education, senior care, and maternal and child health, in particular, requires an understanding of fertility trends.
 
-## For Businesses and Economic Planners
+#### For Businesses and Economic Planners
 Forecasting the Labor Market: The size of the labor force is impacted by a diminishing population, which has an impact on competitiveness and economic growth. These findings can be used by companies and economic planners to plan their workforce development, automation, and recruitment of skilled immigration strategies.
 
 Forecasting Market Demand: Consumer demographics are impacted by fertility rates, which in turn affects demand for different goods and services. Businesses can adjust their marketing and product development plans to meet the needs of shifting demographic patterns.
 
-## For the Awareness and Preparedness of the General Public
+#### For the Awareness and Preparedness of the General Public
 The project's findings can encourage personal planning with regard to retirement, finances, and family size by educating the public on the implications of dropping fertility rates.
 
 Socio-Economic Stability: Economic stability and the viability of social security systems are upheld by steady population growth that strikes a balance between the working-age population and dependents.
@@ -61,18 +61,18 @@ This dataset is from OPENICPSR and includes metadata. These data come from the R
 Depending on the nature of the problem and the characteristics of the data, we may use methods such as logistic regression, random forests, support vector machines, neural networks, etc. for modeling and comparing results.
 
 ### Weekly work schedule / Coordination of the work
-
-W 6/ CP 1 DUE 	   ALL : Select topic, dataset, and work on the proposal 
-W 7 	           Merge data				
-W 8 	           Clean data	Talk about outliers and missing data together 
-SPRING BREAK 	   Descriptive analysis			
-W 9/ CP 2  DUE	   Prelim model runs	All: meet on Saturday 
-W 10-11 	       finetune								
-W 12 	           Try models				
-W 13 	           More models				
-W 14/ CP 3 	       Work on deliverable	All: meet on Saturday 
 					
-					
+| Week              | Details                                    |
+|-------------------|-------------------------------------------------------|
+| W 6/ CP 1 DUE   | ALL : Select topic, dataset, and work on the proposal   |
+| W 7  | Merge data |
+| W 8 | Clean data	Talk about outliers and missing data together   |
+| SPRING BREAK | Descriptive analysis    |
+| W 9/ CP 2 DUE | Prelim model runs	All: meet on Saturday   |
+| W 10-11 | finetune  |
+| W 12 |  Try models  |
+| W 13 | More models  |
+| W 14/ CP 3 DUE | Work on deliverable	All: meet on Saturday   |				
 
 
 ### Reference
