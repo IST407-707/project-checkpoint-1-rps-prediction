@@ -3,8 +3,11 @@
 ### Team
 
 Point of contact: Tian Tian (Github id: MayliaCypher)
+
 Ayush Saseendran (Github id: ayushsaseendran)
+
 Yoon Lee (Github id: oliveingithub)
+
 Francesca Fan (Github id: ffan04)
 
 ### Introduction
@@ -77,15 +80,15 @@ Depending on the nature of the problem and the characteristics of the data, we m
 
 ### Reference
 
-[^1]: [U.S. Census Bureau. (2023, November, 09). U.S. Population projected to begin declining in Second Half of Century [Press release].](https://www.census.gov/newsroom/press-releases/2023/population-projections.html)
+U.S. Census Bureau. (2023, November, 09). U.S. Population projected to begin declining in Second Half of Century [Press release]. https://www.census.gov/newsroom/press-releases/2023/population-projections.html
 
-[^2]: [Moses, C. (2023, February 19). Aging Societies: Asia’s population is shrinking faster than any other continent’s. The New York Times.](https://www.nytimes.com/2023/02/19/briefing/asia-aging-popupulation.html#:~:text=Asia%20faces%20a%20problem%3A%20Its,the%20money%20to%20support%20retirees.)
+Moses, C. (2023, February 19). Aging Societies: Asia’s population is shrinking faster than any other continent’s. The New York Times. https://www.nytimes.com/2023/02/19/briefing/asia-aging-popupulation.html#:~:text=Asia%20faces%20a%20problem%3A%20Its,the%20money%20to%20support%20retirees.
 
-[^3]: [Feng, J. (2023, April 30). Japan’s shrinking populations faces point of no return. Newsweek Magazine.](https://www.newsweek.com/japan-population-decline-births-deaths-demographics-society-1796496)
+Feng, J. (2023, April 30). Japan’s shrinking populations faces point of no return. Newsweek Magazine. https://www.newsweek.com/japan-population-decline-births-deaths-demographics-society-1796496
 
-[^4]: [Bick, Alexander, Blandin, Adam, and Mertens, Karel. Real-Time Population Survey. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2022-11-08.](https://doi.org/10.3886/E158081V4)
+Bick, Alexander, Blandin, Adam, and Mertens, Karel. Real-Time Population Survey. Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2022-11-08. https://doi.org/10.3886/E158081V4
 
-[^5]: [BICK, A. AND A. BLANDIN (2022). Employer Reallocation During the COVID-19 Pandemic: Validation and Application of a Do-It-Yourself CPS. Working Paper 2022-012A, Federal Reserve Bank of St. Louis.]
+BICK, A. AND A. BLANDIN (2022). Employer Reallocation During the COVID-19 Pandemic: Validation and Application of a Do-It-Yourself CPS. Working Paper 2022-012A, Federal Reserve Bank of St. Louis.
 
-[^6]: [BICK, A., A. BLANDIN, AND K. MERTENS (2022). Work from Home Before and After the
-COVID-19 Outbreak. Working Paper 2022-008A, Federal Reserve Bank of St. Louis. ]
+BICK, A., A. BLANDIN, AND K. MERTENS (2022). Work from Home Before and After the
+COVID-19 Outbreak. Working Paper 2022-008A, Federal Reserve Bank of St. Louis.
