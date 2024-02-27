@@ -65,17 +65,17 @@ Depending on the nature of the problem and the characteristics of the data, we m
 
 ### Weekly work schedule / Coordination of the work
 					
-| Week              | Details                                    |
-|-------------------|-------------------------------------------------------|
-| W 6/ CP 1 DUE   | ALL : Select topic, dataset, and work on the proposal   |
-| W 7  | Merge data |
-| W 8 | Clean data	Talk about outliers and missing data together   |
-| SPRING BREAK | Descriptive analysis    |
-| W 9/ CP 2 DUE | Prelim model runs	All: meet on Saturday   |
-| W 10-11 | finetune  |
-| W 12 |  Try models  |
-| W 13 | More models  |
-| W 14/ CP 3 DUE | Work on deliverable	All: meet on Saturday   |				
+| Week              | Details                  |Milestone|
+|---|---|---|
+| W 6/ CP 1 DUE   | Select topic, dataset, and work on the proposal   |  Identify the required data set. Then prepare the project proposal |
+| W 7  | Merge data | Begin merging the selected datasets to create a unified dataset for subsequent analysis |
+| W 8 | Clean data	Talk about outliers and missing data together   | Handle outliers and missing data to ensure data quality. Identify needed features and perform data culling |
+| SPRING BREAK | Descriptive analysis    | Perform basic statistical descriptions, visualizations and preliminary exploratory analyses of data |
+| W 9/ CP 2 DUE | Prelim model runs	| Begin building and training predictive models, and perform initial evaluations of the models |
+| W 10-11 | finetune  | The model is tuned, including adjusting model parameters and feature selection |
+| W 12 |  Try models  | Try more types of models further and compare their performance |
+| W 13 | More models  | Meticulous tuning and optimization of the final model to achieve the best prediction |
+| W 14/ CP 3 DUE | Work on deliverable | Complete preparation of project deliverables, including writing final reports, preparing presentations or demonstrations, and ensuring that all tasks are completed as planned |
 
 
 ### Reference
