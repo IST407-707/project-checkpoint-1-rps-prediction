@@ -68,4 +68,5 @@ In order to mitigate such risks, we have already proposed using multiple waves o
 | W 14/ CP 3 DUE | Work on deliverable | Complete preparation of project deliverables, including writing final reports, preparing presentations or demonstrations, and ensuring that all tasks are completed as planned |
 
 ### Reference 
+
 Smither. L (2002). Managing Employee Life Cycles to Improve Labor Retention. https://ascelibrary.org/doi/abs/10.1061/(ASCE)1532-6748(2003)3:1(19)
